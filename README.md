@@ -1,2 +1,3 @@
 # robotFace
-repo for compuerprogramming code
+repo for robot face code
+
